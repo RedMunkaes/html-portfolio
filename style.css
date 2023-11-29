@@ -1,0 +1,39 @@
+#welcome-section {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    position:relative;
+  }
+  .welcome-header {
+    text-align: center;
+    vertical-align: center;
+    position:absolute;
+    left:0;
+    right:0;
+    top:10%;
+    margin-bottom:20px;
+    font-family: amatic sc;
+    font-size: 25px;
+  }
+  #enzo {
+    border-radius: 50%;
+    border: 5px solid black;
+    height: 200px;
+}
+#about {
+    font-size: 30px ;
+    color:red;
+    background-color: rgba(240, 248, 255, 0.38);
+}
+#info {
+    font-size: smaller;
+}
+img {
+    height: 200px;
+    width: auto;
+    border: 3px solid black;
+}
+iframe {
+    margin:auto;
+    display:block;
+}
