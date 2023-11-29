@@ -1,9 +1,4 @@
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-  body {
-    background: #999;
-    width: 100%;
-  }
-}
+
 #welcome-section {
     height: 100vh;
     align-items: center;
@@ -19,7 +14,7 @@
     top:10%;
     margin-bottom:20px;
     font-family: silkscreen;
-    font-size: 25vw;
+    font-size: 25px;
   }
   #enzo {
     border-radius: 50%;
